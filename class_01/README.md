@@ -15,6 +15,24 @@ Command line is another way of looking at files. Using Windows Explorer or Mac F
 
 Before Explorer and Finder, there was Command Line. Instead of clicking folder icons and file names, people would type commands. These commands would open folders, run programs, edit text, and more. We're going to learn some of these commands now.
 
+Unfortunately, Windows and Mac have different Command Line programs, and therefore, different ways to interact with files. We'll cover these separately.
+
+### Windows
+#### Opening Command Line
+1. Click the Windows icon or press the Windows key on your keyboard to bring up the Start Menu.
+2. Type in `cmd`. Command Prompt should show as a result
+3. Hit Enter on your keyboard. This will open the command line
+  * The Command Prompt should be a black window with white text
+
+#### Using the Command Line
+The command line does not use the mouse. I repeat: **the command line does not use the mouse**. Don't try to click to start typing in a different spot. It won't work. The command line was created before the mouse.
+
+Every time you hit "enter" on command line, it's completely new text. Try it now. You'll see new lines pop up. If you try hitting "up" on your keyboard, your cursor won't move. It will instead bring up the last command you used (if any).
+
+#### Commands
+
+### Mac
+
 ## Writing our First Program
 
 In programming tradition, it's best to write a simple program that prints "hello world" to the screen. This is to prove that our system is setup correctly and that we can safely run programs.
