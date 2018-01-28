@@ -41,3 +41,5 @@ In programming tradition, it's best to write a simple program that prints "hello
 print('hello world')
 ```
 This is called the print function. It prints text to the console. Note that I say it says "prints" text to the console. This is not "output". "output" means something very different that we'll cover later.
+
+## Variables
